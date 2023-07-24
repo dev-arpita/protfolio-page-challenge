@@ -1,9 +1,12 @@
 ### Instructions
 
-#### The titles need extra styling
+#### Extra spacing
 
-- h1: 80px
-- h2: 60px
-- The bold text must be on its own line
-- Link color: #99D930
-- Link hover color: #131313
+- Each “part” of the site needs 100px of space on the top and the bottom
+- Each “part” needs a different background color that extends the entire width of the viewport
+
+#### Colors:
+
+- #D7D7D7
+- #FFEAEA
+- #EAF9FF
