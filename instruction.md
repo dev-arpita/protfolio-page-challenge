@@ -1,9 +1,5 @@
 ### Instructions
 
-- Add a dark color to 2 sections of the website
-- You can only add classes to your HTML, you cannot touch it in any other way
-
-### Colors
-
-- background: #252525
-- text: #fff
+- Fix all the spacing issues
+- Remember, all text elements come with spacing on the top and bottom of them by default.
+- You shouldn’t have to create any new selectors

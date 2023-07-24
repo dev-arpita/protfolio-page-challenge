@@ -27,6 +27,11 @@ h2 .bold-text {
 h1,
 h2 {
     font-weight: 300;
+    margin-top: 0;
+}
+
+P {
+    margin-bottom: 0;
 }
 
 h1 {
@@ -40,6 +45,7 @@ h2 {
 h3 {
     font-size: 36px;
     font-weight: 900;
+    margin-bottom: 0;
 }
 
 a {
@@ -54,6 +60,7 @@ a:focus {
 
 .small-text {
     font-size: 16px;
+    margin-top: 5px;
 }
 
 header,
@@ -61,8 +68,7 @@ section {
     padding: 100px 0;
 }
 
-header,
-.articles {
-    background: #252525;
+.inverse {
     color: #fff;
+    background: #252525;
 }
