@@ -1,4 +1,9 @@
-1. Find ‘Roboto’ on Google fonts
-2. Get only the “light” and the “black” weights
-3. Add the code needed to the HTML page
-4. Set the font family for the entire page to Roboto
+### Instructions
+
+#### The titles need extra styling
+
+- h1: 80px
+- h2: 60px
+- The bold text must be on its own line
+- Link color: #99D930
+- Link hover color: #131313
