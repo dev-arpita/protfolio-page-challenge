@@ -1,19 +1,9 @@
 ### Instructions
 
-- Create a class to style the “buttons”
-- Ensure that you include a hover and focus state
+Further exploring the box model, we want to make our sections’ headings look a little fancier.
 
-#### Normal state
+#### Add a border on the top and bottom of the `h2` elements
 
-- color: #252525
-- background: #99D930
-
-#### hover/focus
-
-- color: #fff
-- background: #252525
-
-### Some tips:
-
-- Don’t use width or height to create the size
-- You’ll have to change their display property
+- Width: 1px
+- Color: #C4C4C4
+- To accomplish this without the spacing between the other text being changed, you’ll have to remember how the box model works.
