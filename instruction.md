@@ -1,12 +1,9 @@
 ### Instructions
 
-#### Extra spacing
+- Add a dark color to 2 sections of the website
+- You can only add classes to your HTML, you cannot touch it in any other way
 
-- Each “part” of the site needs 100px of space on the top and the bottom
-- Each “part” needs a different background color that extends the entire width of the viewport
+### Colors
 
-#### Colors:
-
-- #D7D7D7
-- #FFEAEA
-- #EAF9FF
+- background: #252525
+- text: #fff
