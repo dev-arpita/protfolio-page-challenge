@@ -1,4 +1,4 @@
-1. Add the image after the <h1>
-2. Center the text for the entire page
-3. Add a new div with a class, wrapping all the content on the page, and assign it a width of 570px
-4. Center that div on the page
+1. Find ‘Roboto’ on Google fonts
+2. Get only the “light” and the “black” weights
+3. Add the code needed to the HTML page
+4. Set the font family for the entire page to Roboto
