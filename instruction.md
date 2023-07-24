@@ -1,5 +1,19 @@
 ### Instructions
 
-- Fix all the spacing issues
-- Remember, all text elements come with spacing on the top and bottom of them by default.
-- You shouldn’t have to create any new selectors
+- Create a class to style the “buttons”
+- Ensure that you include a hover and focus state
+
+#### Normal state
+
+- color: #252525
+- background: #99D930
+
+#### hover/focus
+
+- color: #fff
+- background: #252525
+
+### Some tips:
+
+- Don’t use width or height to create the size
+- You’ll have to change their display property
